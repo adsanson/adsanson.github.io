@@ -1,4 +1,4 @@
-<img width="200px" class="rounded float-start pe-4" src="..img/javascript-illustration.png">
+published: true
   
   “Wow”, my reaction to seeing the number of tasks being assigned as part of the start of my journey in ICS314. Prior to taking this class, I was in other classes that had coding as a basis such as EE160. But unlike those classes, ICS314 has been giving me a bigger sense of urgency with the work that’s being assigned on top of having to learn a new coding language. 
   
