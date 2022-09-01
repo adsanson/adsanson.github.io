@@ -1,4 +1,13 @@
+---
+layout: essay
+type: essay
+title: "A step into JavaScript"
+# All dates must be YYYY-MM-DD format!
+date: 2022-09-01
 published: true
+labels:
+  - Engineering
+---
 
 <img width="200px" 
      class="rounded float-start pe-4" 
