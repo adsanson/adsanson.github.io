@@ -38,7 +38,7 @@
       ]
     }
   ],
-   "volunteer": [
+   "activities": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -68,7 +68,7 @@
   "awards": [
     {
       "title": "Perfect Attendance",
-      "date": "2013-2017",
+      "date": "2013 - 2017",
       "awarder": "Saint Louis School JROTC Program",
     }
   ],
