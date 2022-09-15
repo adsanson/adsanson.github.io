@@ -4,7 +4,7 @@ type: essay
 title: "Computers and I"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-01
-published: false
+published: true
 labels:
   - Engineering
 ---
