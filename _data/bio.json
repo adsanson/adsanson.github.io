@@ -41,7 +41,8 @@
    "volunteer": [
     {
       "organization": "Next Step Shelter",
-      "date": "2014 - 2016",
+      "startDate": "2014",
+      "endDate": "2016",
       "summary": "",
       "highlights": [
         "Served food to the homeless families",
@@ -50,13 +51,38 @@
     },
     {
       "organization": "Moiliili Community Center Thrift Store Volunteer",
-      "date": "2014 - 2014",
+      "startDate": "2014",
+      "endDate": "2014",
       "summary": "",
       "highlights": [
         "Cleaned windows",
         "Arranged books",
         "Carried and Arranged donated items"
       ]
+    },
+     {
+      "institution": "Saint Louis School, Honolulu, HI",
+      "area": "Air Rifle Team",
+      "studyType": "Junior Varsity Team",
+      "date": "2013-2014"
+    },
+    {
+      "institution": "Saint Louis School, Honolulu, HI",
+      "area": "Air Rifle Team",
+      "studyType": "Varsity Team",
+      "date": "2014-2017"
+    },
+    {
+      "institution": "Saint Louis School, Honolulu, HI",
+      "area": "Air Rifle Team",
+      "studyType": "Team Captain",
+      "date": "2017 - 2017"
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "College of Engineering",
+      "studyType": "Intern",
+      "date": "2016-2017"
     }
   ],
   "awards": [
