@@ -14,7 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
+    { "name": "Gaming" },
+    { "name": "Movies" },
+    { "name": "Music" },
+    { "name": "Model Kit Building" },
     { "name": "Cooking" }
   ],
   "skills": [
