@@ -1,1 +1,72 @@
-
+{
+  "basics": {
+    "name": "Albert D'Sanson",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/46515196?s=400&u=de76e063e645575c656a4bbca093c354abf015dd&v=4",
+    "email": "adsanson@hawaii.edu",
+    "phone": "808-367-7856",
+    "website": "https://adsanson.github.io",
+    "summary": "I am majoring in Computer Engineering at the University of Hawaii and expect to graduate in Spring, 2023.",
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "adsanson", "url": "https://github.com/adsanson" },
+      { "network": "linkedin", "username": "adsanson", "url": "https://linkedin.com/in/albert-d-sanson-jr-23bb82249" }
+    ]
+  },
+  "interests": [
+    { "name": "Interactive media" },
+    { "name": "Cooking" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "MatLab", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2017-08-21",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+   "volunteer": [
+    {
+      "organization": "Next Step Shelter",
+      "date": "2014 - 2016",
+      "summary": [
+        "Served food to the homeless families",
+        "Entertained kids"
+      ]
+    },
+    {
+      "organization": "Moiliili Community Center Thrift Store Volunteer",
+      "date": "2014 - 2014",
+      "summary": [
+        "Cleaned windows",
+        "Arranged books",
+        "Carried and Arranged donated items"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Perfect Attendance",
+      "date": "2013 - 2017",
+      "awarder": "Saint Louis School JROTC Program",
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
