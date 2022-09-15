@@ -43,34 +43,32 @@
       "institution": "Saint Louis School, Honolulu, HI",
       "area": "Air Rifle Team",
       "studyType": "Junior Varsity Team",
-      "startDate": "2013",
-      "endDate": "2014",
+      "date": "2013-2014"
     }
     {
       "institution": "Saint Louis School, Honolulu, HI",
       "area": "Air Rifle Team",
       "studyType": "Varsity Team",
-      "startDate": "2014",
-      "endDate": "2017",
+      "date": "2014-2017"
     }
     {
       "institution": "Saint Louis School, Honolulu, HI",
       "area": "Air Rifle Team",
       "studyType": "Team Captain",
-      "startDate": "2017",
-      "endDate": "2017",
+      "date": "2017"
     }
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "College of Engineering",
       "studyType": "Intern",
-      "startDate": "2016-06",
-      "endDate": "2016-07",
+      "date": "2016-2017"
     }
  ],
   "awards": [
     {
-      "Perfect Attendance"
+      "title": "Perfect Attendance",
+      "date": "2013-2017",
+      "awarder": "Saint Louis School JROTC",
     }
   ],
   "references": [
