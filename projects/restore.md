@@ -5,6 +5,7 @@ image: img/HHH.jpg
 title: "Honolulu Habitat for Humanity"
 date: 2016
 published: true
+summary: "High school community service project for JROTC Delta company"
 ---
 
 <img class="img-fluid" src="../img/HHH.jpg">
