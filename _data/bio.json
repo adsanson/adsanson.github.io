@@ -38,14 +38,17 @@
       ]
     }
   ],
-  "activities": [
+ "activities": [
     {
-      "institution": "Saint Louis School, Honolulu, HI",
-      "area": "Air Rifle Team",
-      "studyType": "Junior Varsity Team",
-      "date": "2013-2014"
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2017-08-21",
+      "endDate": "Present",
+      "courses": [
+      ]
     }
- ],
+  ],
   "awards": [
     {
       "title": "Perfect Attendance",
