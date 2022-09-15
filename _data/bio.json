@@ -40,6 +40,25 @@
   ],
    "volunteer": [
     {
+      "organization": "Next Step Shelter",
+      "date": "2014 - 2016",
+      "summary": [
+        "Served food to the homeless families",
+        "Entertained kids"
+      ]
+    },
+    {
+      "organization": "Moiliili Community Center Thrift Store Volunteer",
+      "date": "2014 - 2014",
+      "summary": [
+        "Cleaned windows",
+        "Arranged books",
+        "Carried and Arranged donated items"
+      ]
+    }
+  ],
+   "volunteer": [
+    {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Software Developer",
