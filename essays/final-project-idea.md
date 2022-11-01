@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: "Final Project Idea"
 date: 2022-11-01
+author: Albert D'Sanson, Trey Yasunaga
 labels:
   - Software Engineering
   - Meteor
