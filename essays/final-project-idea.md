@@ -10,6 +10,7 @@ labels:
 ---
 
 Project: Notes Share
+
 Overview
 The problem: One of the main problems most student have is missing class. This is either due to reasons such as waking up at the wrong time, lack of initiative to go to class, or having trouble finding parking on campus. 
 
@@ -23,10 +24,13 @@ Mockup page ideas
 - User home page
 - Admin home page
 - User profile page
-- Calendar page
 - Notes page
 
 Use case ideas
-
+- New users go to the Landing page to setup profile.
+- Old users go to the Landing page to login, look for notes.
+- All users can go to the User profile page for past user history.
+- Admins can go to the Admin home page for site edits.
+- User can go to the Notes page for a list of all notes.
 
 Beyond the basics
