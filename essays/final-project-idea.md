@@ -9,6 +9,8 @@ labels:
   - Meteor
 ---
 
+Team: Albert D'Sanson, Trey Yasunaga
+
 Project: Notes Share
 
 Overview
