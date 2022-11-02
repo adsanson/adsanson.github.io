@@ -34,4 +34,5 @@ Use case ideas
 - User can go to the Notes page for a list of all notes.
 
 Beyond the basics
-
+- File conversion
+- Group Notes, edit and push to site similarly to github
