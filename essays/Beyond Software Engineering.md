@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" 
      class="rounded float-start pe-4" 
-     src="../img/BES.png" >
+     src="../img/BES.jpg" >
 
   Over the course of my time in ICS 314, I learned a great deal regarding software engineering. From getting used to GitHub to learning how to create a website, the things I have learned in this class will definitely help me in my life as a computer engineer. Two concepts that stood out to me during the course of this semester were design patterns and ethics in software engineering.
   
