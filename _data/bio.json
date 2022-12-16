@@ -11,8 +11,8 @@
     "profiles": [
       { "network": "github", "username": "adsanson", "url": "https://github.com/adsanson" },
       { "network": "linkedin", "username": "adsanson", "url": "https://linkedin.com/in/albert-d-sanson-jr-23bb82249" }
-    ],
-  }
+    ]
+  },
   "interests": [
     { "name": "Gaming" },
     { "name": "Movies" },
@@ -62,8 +62,8 @@
         "Cleaned windows",
         "Arranged books",
         "Carried and Arranged donated items"
-      ],
-    }
+      ]
+    },
     {
       "organization": "Kaimuki Public Library",
       "startDate": "2014",
@@ -82,8 +82,8 @@
       "highlights": [
         "Served drinks to attendees",
         "Checked for admission tickets and gave event bracelet to attendees"
-        ],
-    }
+        ]
+     },
      {
       "organization": "Honolulu Habitat for Humanity ReStore",
       "startDate": "2016",
