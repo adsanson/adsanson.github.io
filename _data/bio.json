@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "adsanson", "url": "https://github.com/adsanson" },
       { "network": "linkedin", "username": "adsanson", "url": "https://linkedin.com/in/albert-d-sanson-jr-23bb82249" }
-    ]
+    ],
   }
   "interests": [
     { "name": "Gaming" },
@@ -20,7 +20,7 @@
     { "name": "Model Kit Building" },
     { "name": "PC Building" },
     { "name": "Cooking" }
-  ]
+  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -30,7 +30,7 @@
       "name": "Toolsets/OS",
       "keywords": [ "Windows", "MatLab", "Git/GitHub" ]
     }
-  ]
+  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -41,7 +41,7 @@
       "courses": [
       ]
     }
-  ]
+  ],
   "volunteer": [
     {
       "organization": "Next Step Shelter",
@@ -51,7 +51,7 @@
       "highlights": [
         "Served food to the homeless families",
         "Entertained kids"
-      ]
+      ],
     }
     {
       "organization": "Moiliili Community Center Thrift Store Volunteer",
@@ -62,7 +62,7 @@
         "Cleaned windows",
         "Arranged books",
         "Carried and Arranged donated items"
-      ]
+      ],
     }
     {
       "organization": "Kaimuki Public Library",
@@ -72,7 +72,7 @@
       "highlights": [
         "Arranged books",
         "Signed up kids and teens for summer reading program"
-        ]
+        ],
     }
     {
       "organization": "East Honolulu Food Festival",
@@ -82,7 +82,7 @@
       "highlights": [
         "Served drinks to attendees",
         "Checked for admission tickets and gave event bracelet to attendees"
-        ]
+        ],
     }
      {
       "organization": "Honolulu Habitat for Humanity ReStore",
@@ -93,7 +93,7 @@
         "Contacted, Planned, and Coordinated with Volunteer Coordinator",
         "Carried and organized furniture",
         "Carried out bought items for customers",
-        ]
+        ],
     }
      {
       "organization": "University of Hawai'i at Manoa",
@@ -106,14 +106,14 @@
         "Made presentation about project of choice and presented it to intership sponsors.",
         ]
     }
-  ]
+  ],
   "awards": [
     {
       "title": "Perfect Attendance",
       "date": "2013 - 2017",
       "awarder": "Saint Louis School JROTC Program",
     }
-  ]
+  ],
   "references": [
     {
       "name": "Available upon request"
