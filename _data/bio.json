@@ -42,19 +42,18 @@
       ]
     }
   ],
-   "work": [
+   "volunteer": [
     {
       "organization": "Next Step Shelter",
       "startDate": "2014",
       "endDate": "2016",
-      "summary": "",
       "highlights": [
       "Served food to the homeless families",
       "Entertained kids"
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "organization": "Next Step Shelter",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
