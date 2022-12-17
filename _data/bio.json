@@ -53,19 +53,17 @@
         "Entertained kids"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+        {
+      "organization": "Moiliili Community Center Thrift Store Volunteer",
+      "startDate": "2014",
+      "endDate": "2014",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Cleaned windows",
+        "Arranged books",
+        "Carried and Arranged donated items"
       ]
-    }
-  ],
+    },
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
