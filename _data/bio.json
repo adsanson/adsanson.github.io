@@ -13,17 +13,18 @@
       { "network": "linkedin", "username": "adsanson", "url": "https://linkedin.com/in/albert-d-sanson-jr-23bb82249" }
     ]
   },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    "interests": [
+    { "name": "Gaming" },
+    { "name": "Movies" },
+    { "name": "Music" },
+    { "name": "Model Kit Building" },
+    { "name": "PC Building" },
+    { "name": "Cooking" }
   ],
-  "skills": [
+   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
