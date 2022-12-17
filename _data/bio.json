@@ -53,7 +53,7 @@
         "Entertained kids"
       ]
     },
-        {
+    {
       "organization": "Moiliili Community Center Thrift Store Volunteer",
       "startDate": "2014",
       "endDate": "2014",
@@ -92,20 +92,13 @@
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+   {
+      "title": "Perfect Attendance",
+      "date": "2013 - 2017",
+      "awarder": "Saint Louis School JROTC Program",
     }
   ],
-  "references": [
+    "references": [
     {
       "name": "Available upon request"
     }
