@@ -64,18 +64,15 @@
         "Carried and Arranged donated items"
       ]
     },
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+     {
+      "organization": "Kaimuki Public Library",
+      "startDate": "2014",
+      "endDate": "2014",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+        "Arranged books",
+        "Signed up kids and teens for summer reading program"
+        ]
     },
     {
       "organization": "",
